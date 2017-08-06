@@ -1,0 +1,23 @@
+{
+  "name": "cahiti",
+  "version": "1.0.0",
+  "description": "Cards Against Humanity In a Terminal Interface",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoreyStagner/CAHITI.git"
+  },
+  "author": "Corey Stagner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoreyStagner/CAHITI/issues"
+  },
+  "homepage": "https://github.com/CoreyStagner/CAHITI#readme",
+  "dependencies": {
+    "chalk": "^2.0.1",
+    "inquirer": "^3.2.1"
+  }
+}
