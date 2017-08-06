@@ -18,6 +18,7 @@
   "homepage": "https://github.com/CoreyStagner/CAHITI#readme",
   "dependencies": {
     "chalk": "^2.0.1",
+    "colors": "^1.1.2",
     "inquirer": "^3.2.1"
   }
 }
